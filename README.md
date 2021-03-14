@@ -19,7 +19,7 @@
 <p align="left">
 <a href="https://fb.com/michelle.marie.lavergne" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="michelle.marie.lavergne" height="30" width="40" /></a>
 <a href="https://twitter.com/goformich" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="goformich" height="30" width="40" /></a>
-<a href="https://instagram.com/@goformich" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@goformich" height="30" width="40" /></a>
+<a href="https://instagram.com/goformich" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="@goformich" height="30" width="40" /></a>
 <a href="https://dribbble.com/goformich" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dribbble.svg" alt="goformich" height="30" width="40" /></a>
 </p>
 <p align="left"> <a href="https://twitter.com/goformich" target="blank"><img src="https://img.shields.io/twitter/follow/goformich?logo=twitter&style=for-the-badge" alt="goformich" /></a> </p>
