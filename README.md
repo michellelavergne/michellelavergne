@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Michelle Lavergne</h1>
-<h3 align="center">A passionate software engineer from Miami, Fl.</h3>
+<h3 align="center">A passionate software engineer from Miami, FL</h3>
 
 
 - 🔭 I’m currently working on [The D&D Monster Index](https://github.com/michellelavergne/dndMonsterIndex)
