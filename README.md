@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software engineer from Miami, FL</h3>
 
 
-- 🔭 I’m currently working on [The D&D Monster Index](https://github.com/michellelavergne/dndMonsterIndex)
+- 🔭 I’m currently working on [The Red Rising API](https://github.com/michellelavergne/red-rising-api)
 
 - 🌱 I’m currently wanting to learn **Ruby and Python**
 
